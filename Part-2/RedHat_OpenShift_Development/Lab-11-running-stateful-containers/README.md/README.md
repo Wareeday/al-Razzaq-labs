@@ -1,9 +1,5 @@
-Here’s a clean **`README.md`** file for your lab:
+
 # Lab 11: Running Stateful Containers
-
-This lab demonstrates how to run stateful containers with persistent storage using **Podman** (or Docker). You will set up **MySQL** and optionally **PostgreSQL** with volume mounts, verify that data survives container removal, and understand storage concepts for stateful applications.
-
----
 
 ## Objectives
 - Use persistent storage for stateful containers  
